@@ -1,4 +1,4 @@
-require('dotenv').config();
+// require('dotenv').config(); <- Not needed for Heroku deployment.
 const image = require('./components/generate_image');
 const screenplay = require('./assets/script.js');
 
