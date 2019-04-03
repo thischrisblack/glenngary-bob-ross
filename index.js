@@ -29,7 +29,7 @@ function alwaysBeClosing () {
             i++;
         };
 
-    }, 60 * 60 * 1000);
+    }, 2 * 60 * 1000);
 }
 
 // ABC
