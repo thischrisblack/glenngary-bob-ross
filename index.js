@@ -20,7 +20,7 @@ function alwaysBeClosing () {
 
         image.processImage(thisImage, scriptLines[i]);
 
-        // If we're at the end of the movie (-2 because line breaks), start over
+        // If we're at the end of the movie (-2 because line breaks), start over.
         if (i >= scriptLines.length - 2) { 
             clearInterval(tweetTimer);
             console.log('A Always B Be C Closing');
