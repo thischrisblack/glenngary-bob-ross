@@ -1,0 +1,24 @@
+{
+  "name": "glenngary-bob-ross",
+  "version": "1.0.0",
+  "description": "A Twitterbot that tweets images of Bob Ross captioned with dialogue from Glengarry Glen Ross. It is a humorous juxtaposition.",
+  "main": "index.js",
+  "keywords": [
+    "twitterbot"
+  ],
+  "author": "Chris Black",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "jimp": "^0.6.1",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "serve": "^10.1.2"
+  },
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-image": "generate_image.js"
+  }
+}
