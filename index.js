@@ -1,6 +1,6 @@
 // require('dotenv').config(); // Commented out for Heroku deployment.
 const image = require('./components/generate_image');
-const screenplay = require('./assets/script.js');
+const screenplay = require('./assets/screenplay.js');
 
 // Create array with each line of dialogue.
 scriptLines = screenplay.dialogue.split(/\r?\n/);
