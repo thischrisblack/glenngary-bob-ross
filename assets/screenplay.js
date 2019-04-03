@@ -12,8 +12,7 @@ Let me have your attention for a moment.
 You're talking about what? You're talking about ... 
 bitching about that sale you shot ... some son of a bitch don't want to buy land ...
 somebody don't want what you're selling ... some broad you're trying to screw, so forth.
-Let's talk about something important. Are they all here? 
-All but one. I'm going anyway.
+Let's talk about something important. Are they all here? I'm going anyway.
 Let's talk about something important.
 Put that coffee down.
 Coffee's for closers only.
@@ -21,8 +20,7 @@ You think I'm fucking with you?
 I am not fucking with you.
 I'm here from downtown. I'm here from Mitch and Murray.
 And I'm here on a mission of mercy.
-Your name's Levene? Yeah.
-You call yourself a salesman, you son of a bitch?
+Your name's Levene? You call yourself a salesman, you son of a bitch?
 I don't got to listen to this shit.
 You certainly don't, 'cause the good news is, you're fired.
 The bad news is you've got ... all of you've got ... just one week to regain your jobs, 
