@@ -1,4 +1,4 @@
-// require('dotenv').config(); <- Not needed for Heroku deployment.
+// require('dotenv').config(); // Commented out for Heroku deployment.
 const image = require('./components/generate_image');
 const screenplay = require('./assets/script.js');
 
@@ -37,8 +37,9 @@ alwaysBeClosing();
 
 
 /**
- * Initial testing code.
+ * Initial testing code. Posts one random image/caption.
  */
+
 // // Get random image, out here for testing.
 // let randomImage = Math.floor(Math.random() * 20);
 // let thisImage = './assets/raw/br-' + randomImage + '.JPG';
