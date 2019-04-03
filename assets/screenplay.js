@@ -1,9 +1,9 @@
 /**
  * Script text from:
  * https://www.springfieldspringfield.co.uk/movie_script.php?movie=glengarry-glen-ross
- * I selected monologues or mostly-monologues.
+ * I selected two monologues, Blake's "ABC" speeach, and Roma's philosophizing sales pitch.
  * Edited for line breaks, and also took out a few words which would have made this funny
- * little bot into a hurtful nightmare. I replaced those words with "(expletive)",
+ * little bot into a hurtful nightmare. I replaced those words with "(expletive)"
  * which is somehow funnier.
  */
 
@@ -145,93 +145,5 @@ What is that? Florida. Glengarry Highlands. Florida.
 Bullshit. And maybe that's true. And that's what I said.
 But look at this. What is this? This is a piece of land.
 Listen to what I'm going to tell you now.
-Bruce, Harriett ... we have to admit to ourselves that we see that opportunity
-and take it ... and that's it. Now, we just sit there.
-I got my pen out. 
-Always Be Closing. God, that's what I've been saying ... the old ways.
-Convert that motherfucker, sell him, make him sign the check.
-They got their money in government bonds ...
-I said, Fuck it ... let's go all the way, the whole route.
-I take it and plat it out ... eight units, 82 grand, and I say to them,
-This is now. This is that thing that you have been dreaming of.
-You are going to find the suitcase on the train.
-The man walks in the room, that bag is filled with money.
-Harriett, this is it, and Bruce ... I don't want to fuck around with you.
-No, I don't. I don't want to pussyfoot around.
-You think you got to look back on this thing? I do, too.
-Now, I'm here to do good for you and me ... the both of us.
-What is the point of some interim position?
-The only arrangement I will accept is full investment.
-And I mean it, that's it ... all eight units. Period.
-Now I got the pen in my hand, Rick ... hey.
-I turned that contract around ... that's eight units, 82 grand ...
-and I said, I want you to sign.
-I sat there five minutes.
-Then I sat 22 minutes by that kitchen clock on the wall.
-Ricky ... not a word, not a motion.
-And what am I thinking? Is my arm getting tired?
-No. I did it. Just like the old days, like I used to, like I was taught.
-I did it. No, what I did ... I locked on 'em.
-I locked all on them ... nothing on me ... on them.
-And, oh God, I am holding my last thought, Now is the time.
-They signed. It was great.
-It was so fucking great.
-It was like they wilted all at once. Mmm. 
-No gesture, nothing ... just together.
-Honest to God, they both imperceptibly slumped.
-And then he reached and he took the pen and he signed, passed it to her and she signed.
-It was solemn ... fucking solemn.
-I let it sit, and then I nodded. I said, Harriett, Bruce,
-then I pointed into the living room to the sideboard.
-I didn't know there was a sideboard in there.
-He went over, he brought us back a drink ... little shot glasses with a pretty design in 'em.
-And we just toasted in silence.
-You stupid fucking cunt.
-You, Williamson, I'm talking to you, shithead.
-You just cost me $6,000. $6,000, and one Cadillac. That's right.
-What are you gonna do about it? What are you gonna do about it, asshole?
-You're fucking shit.
-Where did you learn your trade, you stupid fucking cunt, you idiot?
-Who ever told you that you could work with men?
-Oh, I'm gonna have your job, shithead.
-I'm going downtown. I'm gonna talk to Mitch and Murray.
-I'm going to Lemkin! I don't care whose nephew you are,
-who you know, whose dick you're sucking on,
-you're going out. I swear to you ...
-Anyone in this office lives on his wits ... I'm gonna be with you in a second.
-What you're hired for is to help us. Does that seem clear to you?
-To help us! Not to fuck us up!
-To help men who are going out there to try to earn a living, you (expletive).
-You company man.
-I'll tell you something else, I hope you ripped the joint off.
-I can tell our friend here something, might help him to catch you.
-You wanna learn the first rule you'd know if you ever spent a day in your life?
-You never open your mouth till you know what the shot is.
-You fucking child.
-You are a shithead, Williamson.
-Can't think on your feet, you ought to keep your mouth closed.
-Can you hear me? I'm talking to you.
-Ricky's right. Can't learn in an office, gotta learn it in the street.
-And you sure can't buy it, you gotta live it.
-Mmmm. 
-Mmmm, yeah!
-Precisely. Because your partner depends ...
-I'm talking to you, trying to tell you something!
-What I told you a long time ago. You don't belong in this business.
-You might listen to me. One day you could say, Hey, maybe the guy ... oh, fuck it.
-Listen to me now. Your partner depends on you.
-The man who is your partner, depends on you.
-You go with him and for him or you're shit!
-You are shit ... you can't exist alone.
-You be as cold as you want. 
-You just fucked a good man out of $6,000 and his goddamned bonus because you didn't know the shot.
-You can do that and you're not man enough to say it gets you?
-I don't know what ... if you can't take something from that, then you're ... scum! 
-You're fucking white bread.
-A child would know it, he's right.
-If you're gonna make something up, be sure that it helps.
-Hmm? Or keep your mouth shut.
-I'm done with you.
-How do you know I made it up?
 `;
 exports.dialogue = dialogue;
