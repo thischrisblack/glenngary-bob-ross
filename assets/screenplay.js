@@ -1,7 +1,7 @@
 /**
  * I selected Blake's "ABC" scene.
  * Edited for line breaks, and also took out a word which didn't sit well in this context. 
- * I replaced that with "(expletive)"  which is somehow funnier.
+ * I replaced that with "(expletive)" which is somehow funnier.
  */
 
 const dialogue = `

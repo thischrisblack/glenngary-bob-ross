@@ -11,16 +11,16 @@ function alwaysBeClosing () {
 
     let tweetTimer = setInterval(function () {
 
-        // Get random image.
-        // Images are screenshots from Bob Ross videos.
+        // Get path of random image. Images are screenshots from Bob Ross videos.
         let randomImage = Math.floor(Math.random() * 20);
         let thisImage = './assets/raw/br-' + randomImage + '.JPG';
 
         console.log(scriptLines[i]);
 
+        // Send image and line to Jimp for processing, where it will then be tweeted.
         image.processImage(thisImage, scriptLines[i]);
 
-        // If we're at the end of the movie (-2 because line breaks), start over.
+        // If we're at the end (-2 because line breaks), start over.
         if (i >= scriptLines.length - 2) { 
             clearInterval(tweetTimer);
             console.log('A Always B Be C Closing');
@@ -29,10 +29,10 @@ function alwaysBeClosing () {
             i++;
         };
 
-    }, 60 * 60 * 1000);
+    }, 60 * 60 * 1000); // One post per hour.
 }
 
-// ABC
+// Start the bot.
 alwaysBeClosing();
 
 
