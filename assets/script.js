@@ -1796,7 +1796,7 @@ I'm gonna be with you in a second.
 What you're hired for is to help us.
 Does that seem clear to you?
 To help us! Not to fuck us up!
-To help men who are going out there to try to earn a living, you fairy.
+To help men who are going out there to try to earn a living, you (expletive).
 You company man.
 I'll tell you something else, I hope you ripped the joint off.
 I can tell our friend here something, might help him to catch you.
