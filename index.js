@@ -9,7 +9,7 @@ function alwaysBeClosing () {
     // Iterator starts at 1 because 0 is just a line break.
     let i = 1;
 
-    let timer = setInterval(function () {
+    let tweetTimer = setInterval(function () {
 
         // Get random image.
         // Images are screenshots from Bob Ross videos.
@@ -22,7 +22,7 @@ function alwaysBeClosing () {
 
         // If we're at the end of the movie (-2 because line breaks), start over
         if (i >= scriptLines.length - 2) { 
-            clearInterval(timer);
+            clearInterval(tweetTimer);
             console.log('A Always B Be C Closing');
             alwaysBeClosing();
         } else {
@@ -32,7 +32,7 @@ function alwaysBeClosing () {
     }, 60 * 60 * 1000);
 }
 
-// A - B - C
+// ABC
 alwaysBeClosing();
 
 
