@@ -14,7 +14,7 @@ function alwaysBeClosing () {
         let thisImage = './assets/raw/br-' + randomImage + '.JPG';
 
         // Get a line of dialogue.
-        let randomLine = Math.floor(Math.random() * scriptLines.length);
+        let randomLine = Math.floor(Math.random() * (scriptLines.length - 2)) + 1;
         let line = scriptLines[randomLine];
 
         console.log(line);
