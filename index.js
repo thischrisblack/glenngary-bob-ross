@@ -22,7 +22,7 @@ function alwaysBeClosing () {
         // Send image and line to Jimp for processing, where it will then be tweeted.
         image.processImage(thisImage, line);
 
-    }, 1 * 60 * 60 * 1000); // One post every hour.
+    }, 4 * 60 * 60 * 1000); // One post every four hours.
 }
 
 // Start the bot.
